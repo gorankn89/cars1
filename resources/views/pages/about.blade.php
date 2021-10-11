@@ -9,16 +9,10 @@
 <body>
     <div>
         <h1>
-            Welcome to Cars Project
+            About!
         </h1>
-    </div>
-    <div>
         <p>
-            Welcome {{$name}}
-            I'm {{$age}} years old
-        </p>
-        <p>
-            I'm {{$age}} years old
+            {{$log}}
         </p>
     </div>
 </body>
